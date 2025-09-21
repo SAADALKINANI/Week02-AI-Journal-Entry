@@ -1,0 +1,8 @@
+Week 2 (INST326)
+This week I used AI mainly while working on my INST326 Python exercises. For example, when I was completing my Jupyter notebook, I asked AI to explain why input() returns a string by default and how to properly convert it using int(). That made it easier for me to apply the concept directly in my code.
+I also used AI to review how f-strings work and to give me simple examples for formatting output. This was useful when writing code that needed clear print statements.
+In addition, I used AI as a tutor for debugging and double-checking logic in my exercises. For instance, I asked it to walk me through vector operations and condition checks in Python so I could understand the reasoning, not just the answer. I then applied those explanations while finishing the notebook on my own.
+Here are some of my AI chat links from this week:
+•	https://chatgpt.com/share/68cf6582-70bc-800d-a852-4e207f622821
+•	https://chatgpt.com/share/68cf652a-6be8-800d-a650-bae3794cbc8b
+Overall, AI was most helpful this week for clarifying concepts and giving quick examples while I worked through the notebook. It didn’t do the assignments for me, but it supported me in learning and completing the work on my own.
