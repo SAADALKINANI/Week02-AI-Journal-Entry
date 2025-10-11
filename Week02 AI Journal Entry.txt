@@ -1,3 +1,6 @@
+AI Usage Journal
+Saad Alkinani
+
 Week 2 (INST326)
 This week I used AI mainly while working on my INST326 Python exercises. For example, when I was completing my Jupyter notebook, I asked AI to explain why input() returns a string by default and how to properly convert it using int(). That made it easier for me to apply the concept directly in my code.
 I also used AI to review how f-strings work and to give me simple examples for formatting output. This was useful when writing code that needed clear print statements.
@@ -6,3 +9,36 @@ Here are some of my AI chat links from this week:
 •	https://chatgpt.com/share/68cf6582-70bc-800d-a852-4e207f622821
 •	https://chatgpt.com/share/68cf652a-6be8-800d-a650-bae3794cbc8b
 Overall, AI was most helpful this week for clarifying concepts and giving quick examples while I worked through the notebook. It didn’t do the assignments for me, but it supported me in learning and completing the work on my own.
+
+week 3
+
+This week I worked on the INST326 Week 3 function exercises. I mostly solved the problems on my own, but I used AI in a few places where I was stuck:
+I asked for explanations of function basics like how to return values and how default parameters work.
+I had it show me simple examples of string methods (.strip(), .title(), .lower()) so I could apply them to my own code.
+When one of my early functions didn’t run, I used AI for debugging help — it pointed out that I had a missing return statement.
+I made sure to write the actual solutions myself and just used AI to clear up small questions and double-check my logic.
+Link to chats:
+https://chatgpt.com/share/68d5d42e-d51c-800d-bb55-d218b5e40873
+
+Week 4
+
+This week I used AI a few times while working on week 04_exercises.ipynb. I was stuck on some small details in my class implementations. For example,
+I asked how to decide between using a regular method and a @property for borrowed_count in the Member class. I also asked about why my Shelf.add_title() method was returning None instead of True/False, which helped me realize I needed to explicitly return the values. 
+Another time I asked for guidance on how to handle the BookCopy.checkin() method so it wouldn’t break if the book was already available. Finally, I asked why my Rating.average() test expected a result between 3.4 and 3.9 when my math gave me 4.0 — this helped me think about different ways averages can be calculated.
+Overall, I mainly used AI for concept explanations and debugging hints
+link:
+https://chatgpt.com/share/68ddbbc5-0430-800d-914f-7c52adf6d857
+
+Week 5
+
+This week I used AI mostly while working on my group’s Function Library Project. My part was focused on testing and reporting for our Universal Restaurant Inventory Management System. I used AI to help me plan out the five functions I was responsible for and to check that my code followed Python style rules.
+
+I asked it to explain how to write clear docstrings and how to use datetime to handle expiration dates. That helped me finish functions like mark_expired_items() and generate_waste_report() correctly. When I ran into small bugs, I asked AI what might be wrong with my logic or why a value didn’t print the way I expected. It pointed me in the right direction, but I fixed the problems myself.
+
+I also used AI for feedback on my AI Collaboration Journal to make sure it sounded clear and organized. Overall, AI helped me understand my code better and write it more neatly, but I still did all the main work and testing on my own.
+link to the chat:
+https://chatgpt.com/share/68eaeef5-45c8-800d-958f-68462815cf47
+
+
+
+
