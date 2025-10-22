@@ -39,6 +39,15 @@ I also used AI for feedback on my AI Collaboration Journal to make sure it sound
 link to the chat:
 https://chatgpt.com/share/68eaeef5-45c8-800d-958f-68462815cf47
 
+week 6
+This week I used AI mainly while completing my INST326 Week 6 Methods & Class Design notebook. Most of the work focused on building Python classes with instance, class, and static methods.
+I asked AI to remind me how @classmethod and @staticmethod differ, and to show short examples so I could apply the same structure in my own code. I also used it for light debugging when a few of my methods weren’t returning the right values. For instance, it helped me see that my renewal () method needed to update the due date using timedelta, and that I had a missing return in one of my boolean checks.
+AI was also helpful for reviewing date handling with the datetime module and clarifying when to use instance vs. class attributes. I made sure to write and test all the final solutions myself after understanding the explanations.
+Here are some of the chats I used this week:
+https://chatgpt.com/share/68f9556e-49bc-800d-8453-ec0156b5ec3c
+
+Overall, AI helped me understand object-oriented programming more clearly and fix small logic issues, but all the coding and testing in the notebook were completed on my own.
+
 
 
 
