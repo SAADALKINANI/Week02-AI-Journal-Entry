@@ -48,6 +48,13 @@ https://chatgpt.com/share/68f9556e-49bc-800d-8453-ec0156b5ec3c
 
 Overall, AI helped me understand object-oriented programming more clearly and fix small logic issues, but all the coding and testing in the notebook were completed on my own.
 
+Week 7
+This week I used AI a bit for debugging while working on the Week 7 exercises and the library system project. I wrote most of the code myself but ran into some issues with exception handling that I needed help sorting out.
+I used ChatGPT mainly to debug my parse_copies() function and the assert_not_overdue() helper function for the Week 7 exercises. The parse_copies function was mostly working but I wanted to make sure my error handling was correct. For the assert_not_overdue function, I had written the basic logic but wasn't sure if I was handling the edge cases right - like what happens when a book is returned late versus just being overdue. ChatGPT helped me see that I needed to check both scenarios.
+I also used AI to help write some unit tests for the exercises since I'm still getting the hang of the unittest framework. It showed me how to use assertRaises() properly which was helpful.
+I didn't use AI to write any of the main code or the dataclasses for the library system - I did all that myself. Just used it to fix bugs and understand testing better.
+https://chatgpt.com/share/69029664-85e8-800d-9748-2fa28356a354
+
 
 
 
