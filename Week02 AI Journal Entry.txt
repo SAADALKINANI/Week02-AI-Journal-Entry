@@ -55,6 +55,14 @@ I also used AI to help write some unit tests for the exercises since I'm still g
 I didn't use AI to write any of the main code or the dataclasses for the library system - I did all that myself. Just used it to fix bugs and understand testing better.
 https://chatgpt.com/share/69029664-85e8-800d-9748-2fa28356a354
 
+Week 8
+This week I used AI a couple times while working on the Week 8 inheritance stuff for INST326. Honestly, inheritance was kind of confusing at first so I needed some help understanding how it all works.
+I asked AI to explain how parent and child classes connect and when you're supposed to use super(). That cleared up a lot for me because I kept forgetting to call the parent's init() method in my child classes. I also wasn't sure when to completely override a method versus just adding to it with super(), so I asked about that too.
+The main thing I got stuck on was setting up the child class constructors properly. I kept getting errors because I wasn't initializing the parent class attributes correctly. AI gave me some examples that made sense and then I was able to fix my code.
+I wrote all the actual code myself though. Just used AI when I hit a wall or didn't understand a concept. Inheritance is still a little weird to me but it makes more sense now than it did at the start of the week.
+https://chatgpt.com/share/690eb4e3-feb8-800d-9b08-146de568a821
+
+
 
 
 
