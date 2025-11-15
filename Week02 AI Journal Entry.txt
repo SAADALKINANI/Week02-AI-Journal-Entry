@@ -62,6 +62,17 @@ The main thing I got stuck on was setting up the child class constructors proper
 I wrote all the actual code myself though. Just used AI when I hit a wall or didn't understand a concept. Inheritance is still a little weird to me but it makes more sense now than it did at the start of the week.
 https://chatgpt.com/share/690eb4e3-feb8-800d-9b08-146de568a821
 
+Week 9
+
+This week I used AI mostly while finishing my Excel assignments and doing some debugging for my Python work in INST326. For Excel, I asked AI to help me organize my worksheets, fix formatting issues, and double-check some of the probability calculations so everything matched the instructor’s requirements. It didn’t do the assignment for me, but it helped me understand how to structure the file and clean up mistakes.
+
+I also used AI for a few small Python questions, mainly when I got stuck on logic or return values. For example, I asked why one of my functions wasn’t returning the right output, and AI pointed out that I had a missing return statement. I also used it to walk me through how to write cleaner code when working step-by-step on the exercises.
+
+Here are some of my chats from this week:
+https://chatgpt.com/share/68cf652a-6be8-800d-a650-bae3794cbc8b
+
+Overall, AI helped me fix small errors and stay organized, but I still completed the actual Excel work and Python coding on my own.
+
 
 
 
