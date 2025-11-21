@@ -73,6 +73,12 @@ https://chatgpt.com/share/68cf652a-6be8-800d-a650-bae3794cbc8b
 
 Overall, AI helped me fix small errors and stay organized, but I still completed the actual Excel work and Python coding on my own.
 
+Week 10
+This week I used AI mainly for debugging and guidance while finishing Project 03 for INST326. Most of my work focused on building the inheritance hierarchy, setting up abstract base classes, and making sure my polymorphic methods worked correctly.
+I asked AI for help when I got stuck on a few issues, like why one of my child classes wasn’t calling the parent constructor properly, and why one of my overridden methods wasn’t acting polymorphically. It also helped me make a mistake where I accidentally instantiated an abstract class in my tests. AI didn’t write any of the code for me, but it pointed me in the right direction so I could fix the problems on my own.
+Overall, AI was helpful for clarifying design choices and solving small bugs, but I wrote and tested all the final code myself.
+https://chatgpt.com/share/691fd265-4274-800d-9e77-13f194c071c0
+
 
 
 
