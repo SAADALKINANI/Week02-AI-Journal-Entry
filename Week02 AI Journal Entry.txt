@@ -79,6 +79,12 @@ I asked AI for help when I got stuck on a few issues, like why one of my child c
 Overall, AI was helpful for clarifying design choices and solving small bugs, but I wrote and tested all the final code myself.
 https://chatgpt.com/share/691fd265-4274-800d-9e77-13f194c071c0
 
+Week 12 
+This week I used AI a few times while working on the Week 12 exercises and preparing for the final parts of our library system project. Most of my questions were about debugging and making sure my functions matched the assignment requirements. For example, I asked AI to explain why one of my helper methods wasn’t updating an object’s state correctly, which helped me realize I was modifying a copy instead of the actual instance.
+I also used AI to double-check my understanding of file handling and edge cases in some of the parsing functions. When one of my tests kept failing, I asked AI what kinds of mistakes usually cause off-by-one errors in loops, and that helped me spot the bug in my own code. I made sure to write all the real logic myself I just used AI for small clarifications and hints whenever I got stuck.
+https://chatgpt.com/share/69029664-85e8-800d-9748
+
+
 
 
 
